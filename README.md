@@ -10,6 +10,9 @@
 [<img align="left" alt="圖標無法加載" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 [<img align="left" alt="圖標無法加載" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img align="left" alt="圖標無法加載" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+**Youtube觀看**
+<a href="https://www.youtube.com/channel/UCJYsxslo0c4Enj1A0tveNdw"> <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCpGQsrg4iNNzq46aK1dANNw&key=AIzaSyDO5I6BvUW55hTT_q5MtSsCe6gcSAAzs6Q&color=red&label=Views&style=for-the-badge&color=red&labelColor=ce4630"/> </a>
 </br>
 ### 目前已稍微接觸過的語言
 - [x] **Node.js** 
