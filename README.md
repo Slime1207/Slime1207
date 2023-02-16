@@ -9,4 +9,5 @@
 
 # **友情鏈接 & 任職職位**
 - [AMS 伺服器](https://discord.gg/n68JSATDxQ) - 伺服器插件師
-- [???](example.com) - 服主
+- [???](https://example.com) - 服主
+
