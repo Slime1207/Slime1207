@@ -5,3 +5,8 @@
 # **關於我**
 - **16y** , Birthday on **2006-12-07**
 - **A Science Students. (Biology , Chemistry , Additional Mathematics , Physics.)**
+- **Malaysian (Bahasa Melayu , Ch_zn & English)
+
+# **友情鏈接 & 任職職位**
+- [AMS 伺服器](https://discord.gg/n68JSATDxQ) - 伺服器插件師
+- [???](example.com) - 服主
