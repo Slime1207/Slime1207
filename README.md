@@ -14,10 +14,22 @@
 - 💨 **Yamoto 伺服器服主**
 
 <p align="center">
-  <h3 align="center"><ins>:link: _關於我的鏈接</ins></h3>
+  <h3 align="center"><ins>:link: 關於我的鏈接</ins></h3>
 </p>
 
 - 💨 **Youtube** : **[史萊姆 Slime Ch.](https://www.youtube.com/@ppc_slime)**  
 - 💨 **Twitter** : **[@slime_1207](https://twitter.com/slime_1207)**  
 - 💨 **Discord** : **[@slime_1207#0000](https://discord.com/users/1207649949790117938/)**  
 - 💨 **Facebook** : **[史萊姆王 SlimeKing](https://www.facebook.com/Slimeking1207)**  
+
+<p align="center">
+  <h3 align="center"><ins>📕 Yamoto 伺服器</ins></h3>
+</p>
+
+**__伺服器BETA計劃中...__**  
+嗨，剛剛才開啓的伺服器。您不覺得他燙嗎？  
+趕快加入我們的 Beta 計劃，在玩的同時可以吐槽一下伺服器 (X  
+
+- **[Discord](https://discord.com/invite/qwwsEn8tCv)**
+- **[Mc-List / 伺服器列表網站](https://www.mc-list.xyz/1992/info)**
+- **[伺服器維基](https://foreverslimeking.gitbook.io/yamoto-server-wiki)**
