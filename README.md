@@ -1,13 +1,23 @@
-# **About Me.md**
-嗨 , 我是史萊姆 aka [Slime1207](https://github.com/Slime1207/Slime1207)  
-這是關於我的頁面! 如果您想繼續瞭解我就繼續看下去吧  
+<p align="center">
+  <h3 align="center"><ins>史萊姆 Slime Ch.</ins></h3>
+</p>
 
-# **關於我**
-- **16y** , Birthday on **2006-12-07**
-- **A Science Students. (Biology , Chemistry , Additional Mathematics , Physics.)**
-- **Malaysian (Bahasa Melayu , Ch_zn & English)
+嗨！歡迎各位來到史萊姆的 Github 樂園！  
+在這裏，希望你可以更加的認識我！也歡迎來到下面的鏈接中找到我！
 
-# **友情鏈接 & 任職職位**
-- [AMS 伺服器](https://discord.gg/n68JSATDxQ) - 伺服器插件師
-- [???](https://example.com) - 服主
+<p align="center">
+  <h3 align="center"><ins>🏷 關於我的標簽</ins></h3>
+</p>
 
+- 💨 **我的 MBTI** : **ENFT-T**
+- 💨 **内容創作者**
+- 💨 **Yamoto 伺服器服主**
+
+<p align="center">
+  <h3 align="center"><ins>:link: _關於我的鏈接</ins></h3>
+</p>
+
+- 💨 **Youtube** : **[史萊姆 Slime Ch.](https://www.youtube.com/@ppc_slime)**  
+- 💨 **Twitter** : **[@slime_1207](https://twitter.com/slime_1207)**  
+- 💨 **Discord** : **[@slime_1207#0000](https://discord.com/users/1207649949790117938/)**  
+- 💨 **Facebook** : **[史萊姆王 SlimeKing](https://www.facebook.com/Slimeking1207)**  
