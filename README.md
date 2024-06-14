@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+World+!;I'm+Slime+!+And+this+is+my+profile+!;Just+read+it+and+enjoy+it+%3A3)](https://git.io/typing-svg)
+
 <p align="center">
   <h3 align="center"><ins>史萊姆 Slime Ch.</ins></h3>
 </p>
