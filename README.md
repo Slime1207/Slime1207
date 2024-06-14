@@ -30,7 +30,7 @@
 
 **__伺服器BETA計劃中...__**  
 嗨，剛剛才開啓的伺服器。您不覺得他燙嗎？  
-趕快加入我們的 Beta 計劃，在玩的同時可以吐槽一下伺服器 (X  
+趕快加入我們的 Beta 計劃，在玩的同時可以吐槽一下伺服器 (X  @yamotoserver
 
 - **[Discord](https://discord.com/invite/qwwsEn8tCv)**
 - **[Mc-List / 伺服器列表網站](https://www.mc-list.xyz/1992/info)**
